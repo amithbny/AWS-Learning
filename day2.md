@@ -330,6 +330,7 @@ A VPC is your AWS virtual network. A VPN is the encrypted connection used to con
 
 ![image](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/89d8316e-7b70-4821-a6bf-67d1dcc4d2fb)
 
+
 ## 12. Quick Revision Summary
 
 - VPC = private network in AWS
